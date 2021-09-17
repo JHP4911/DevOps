@@ -6,18 +6,18 @@
 
 ### Problems with different hardware boxes:
 
-👉 Have to maintain them.
-👉 Need more space.
-👉 Need seperate network.
-👉 Need seperate opertaing system.
-👉 High cost.
+👉 Have to maintain them. <br>
+👉 Need more space. <br>
+👉 Need seperate network. <br>
+👉 Need seperate opertaing system. <br>
+👉 High cost. <br>
 
 ### Problems with Hypervisor: 
 
-In this, we use a single high processing hardware box and install the hypervisor on top of that. Then we create multiple virtual machines on top of that hypervisor.we were able to solve the wastage issue.But still there are some drawbacks.
+In this, we use a single high processing hardware box and install the hypervisor on top of that. Then we create multiple virtual machines on top of that hypervisor.we were able to solve the wastage issue.But still there are some drawbacks. <br>
 
-👉 Cost is high(includes operating system costs, license cost, maintenance and updations)
-👉 Wastage of time (We need to create other virtual machines and other operating systems if we need other webservers. So it will take some time for the bootup process in Virtual machines).
+👉 Cost is high(includes operating system costs, license cost, maintenance and updations). <br>
+👉 Wastage of time (We need to create other virtual machines and other operating systems if we need other webservers. So it will take some time for the bootup process in Virtual machines). <br>
 
 
 
@@ -69,9 +69,9 @@ Docker is an open source platform for building, deploying, and managing containe
 
 ## why Docker?
 
-👉 It is Simple.
-👉 It is Fast.
-👉 Easy collaboration.
+👉 It is Simple. <br>
+👉 It is Fast. <br>
+👉 Easy collaboration. <br>
   
   
 
