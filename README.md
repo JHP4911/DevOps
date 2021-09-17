@@ -1,3 +1,3 @@
 # 100DaysOfDevOps
 
-![DevOps](https://miro.medium.com/max/1400/1*ReEGPynYirVsstABqUGbaA.png)
+![DevOps](https://devopedia.org/images/article/54/7602.1513404277.png)
