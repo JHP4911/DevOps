@@ -35,7 +35,7 @@ docker info
 
 ### Download an Image
 ```
-docker pull <Image_name>:<verions>
+docker pull <Image_name>:<versions>
 ```
 
 **NOTE:** Docker Community have their own internet location or url. They put all the main OS images like RedHat, centos, ubantu, etc at one website known as Repository/Registry or Docker Public Registry. That location name is **hub.docker.com**  
@@ -47,7 +47,7 @@ docker images
 
 ### To launch a docker container 
 ```
-docker run -i -t  --name<your_Container_name>  <Image_name>:<verions>
+docker run -i -t  --name<your_Container_name>  <Image_name>:<versions>
 ```
 
 ### Shows Running containers
