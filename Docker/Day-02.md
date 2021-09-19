@@ -47,7 +47,7 @@ docker images
 
 ### To launch a docker container 
 ```
-docker run -i -t  --name<your_Container_name>  <Image_name>:<versions>
+docker run -i -t  --name <your_Container_name>  <Image_name>:<versions>
 ```
 
 ### Shows Running containers
