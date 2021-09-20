@@ -5,6 +5,9 @@
 
 ## What is Dockerfile ?
 A Dockerfile is a text document that contains all the commands a user could call on the command line to assemble an image. 
+<br>
+
+![dockerfile](../images/dockerfile.png)
 
 ## Keywords of Dockerfile 
 
