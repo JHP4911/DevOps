@@ -1,6 +1,5 @@
 <div align="center">
   <h1> Docker Compose  </h1>
-  ![docker_compose](../images/docker_compose.png)
 </div>
 
 
