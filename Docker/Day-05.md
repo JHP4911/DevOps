@@ -1,8 +1,8 @@
 <div align="center">
-Docker Compose 
+  <h1> Docker Compose  </h1>
+  ![docker_compose](../images/docker_compose.png)
 </div>
 
-![docker_compose](../images/docker_compose.png)
 
 ## What is Docker Compose
 Docker Compose is a Docker tool used to define and run multi-container applications. With Compose, you use a YAML file to configure your application’s services and create all the app’s services from that configuration.
