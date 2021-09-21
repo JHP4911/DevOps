@@ -37,12 +37,12 @@ CMD python3
 ``` 
 **And save the file**
 
-### Step 4: Build/Run the code 
+### Step 3: Build/Run the code 
 ```
 docker build  <directory_name>  -t  <Your_image_nmae>:<version> 
 ``` 
 
-### Step 5. Now launch a container using above created Image
+### Step 4. Now launch a container using above created Image
 ```
 docker run -i -t  --name <Container_name>  <your_image_name>:<versions>
 ```
