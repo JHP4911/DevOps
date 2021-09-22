@@ -2,6 +2,8 @@
   <h1> Introduction to Kubernetes </h1>
 </div>
 
+![kubernetes](../images/kubernetes.png)
+
 ### What is Kubernetes?
 
 Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. <br>
@@ -28,4 +30,6 @@ For example, Kubernetes can easily manage a canary deployment for your system.  
 👉 Designed for extensibility  <br>
 👉 Automatic bin packing  <br>
 
+
+### Blog : https://anuja-kumari.medium.com/kubernetes-and-its-usecase-d17aa2027bdb
 
