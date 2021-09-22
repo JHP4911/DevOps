@@ -2,7 +2,7 @@
   <h1> Introduction to Kubernetes </h1>
 </div>
 
-![kubernetes](../images/kubernetes.png)
+![Kubernetes](../images/Kubernetes.png)
 
 ### What is Kubernetes?
 
