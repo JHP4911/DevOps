@@ -10,4 +10,4 @@
 ⚜ Services select Pods based on their labels. 
 ⚜ When a network request is made to the service, it selects all Pods in the cluster matching the service's selector, chooses one of them, and forwards the network request to it.
 
-**Official documentation of Pods** : https://kubernetes.io/docs/concepts/services-networking/service
+**Official documentation** : https://kubernetes.io/docs/concepts/services-networking/service
